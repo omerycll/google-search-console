@@ -1,0 +1,26 @@
+{
+	"request":{
+     	"message": "Yeni istek"
+	},
+	"requestInput":{
+     	"message": "URL girin"
+	},
+	"clearCached":{
+     	"message": "Önbelleğe alınmış URL'yi temizle"
+	},
+	"temporarilyRemoveUrl":{
+     	"message": "URL'yi geçiçi olarak kaldır"
+	},
+	"nextInput":{
+     	"message": "Sonraki"
+	},
+	"submitRequest":{
+     	"message": "İstek gönderin"
+	},
+	"dublicateRequest":{
+     	"message": "Yinelenen istek"
+	},
+	"close":{
+     	"message": "Kapat"
+	}
+}

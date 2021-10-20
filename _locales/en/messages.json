@@ -1,0 +1,26 @@
+{
+	"request":{
+     	"message": "New Request"
+	},
+	"requestInput":{
+     	"message": "Enter URL"
+	},
+	"clearCached":{
+     	"message": "Clear cached URL"
+	},
+	"nextInput":{
+		"message": "Next"
+	},
+	"temporarilyRemoveUrl":{
+     	"message": "Temporarily remove URL"
+	},
+	"submitRequest":{
+     	"message": "Submit request"
+	},
+	"dublicateRequest":{
+     	"message": "Duplicate request"
+	},
+	"close":{
+     	"message": "Close"
+	}
+}
